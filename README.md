@@ -57,5 +57,13 @@ This dashboard helps in making data-driven financial decisions.
 
 ---
 
+## 📊 Business Impact
+This dashboard helps stakeholders:
+- Monitor financial performance
+- Identify profit trends
+- Make data-driven decisions
+
+---
+
 ## 👤 Author
 Jeetendra
