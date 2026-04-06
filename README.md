@@ -1,7 +1,11 @@
 # 📊 Finance Dashboard (Power BI)
 
-## 📌 Project Objective
-This project focuses on analyzing financial data and tracking key performance indicators (KPIs) using an interactive Power BI dashboard.
+## 📊 Project Overview
+
+This project focuses on analyzing financial data and tracking key performance indicators (KPIs) through an interactive Power BI dashboard.  
+It provides clear insights into financial performance, trends, and key metrics, enabling better monitoring and data-driven decision-making.  
+
+The dashboard is designed to present complex financial data in a simple, visual, and user-friendly manner.
 
 ---
 
@@ -65,5 +69,15 @@ This dashboard helps stakeholders:
 
 ---
 
+## ⭐ Support & Feedback
+
+If you found this project insightful, please consider giving it a ⭐ on GitHub.  
+Your support is greatly appreciated and helps me continue building impactful data analytics projects.  
+I welcome any feedback or suggestions for improvement.
+
+---
+
 ## 👤 Author
-Jeetendra
+
+**Jeetendra**  
+Aspiring Data Analyst skilled in Power BI and data visualization, focused on turning data into meaningful insights and building real-world analytics projects.
