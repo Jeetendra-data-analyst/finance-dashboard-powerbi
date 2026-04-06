@@ -1,5 +1,7 @@
 # 📊 Finance Dashboard (Power BI)
 
+---
+
 ## 📊 Project Overview
 
 This project focuses on analyzing financial data and tracking key performance indicators (KPIs) through an interactive Power BI dashboard.  
